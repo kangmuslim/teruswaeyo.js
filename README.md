@@ -1,0 +1,2 @@
+# teruswaeyo.js
+teruswayo
